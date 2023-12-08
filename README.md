@@ -1,6 +1,6 @@
 # moosic-cd-library
 
-Coded in Java, this project was completed for "STIA1123 Programming 2" in July 2023. The attached PDF contains the full project report.
+Coded in Java, this project was developed as part of the "STIA1123 Programming 2" course completed in July 2023. The attached PDF contains the comprehensive project report.
 
 ## Project Description
 
