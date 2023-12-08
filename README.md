@@ -1,0 +1,1 @@
+# moosic-cd-library
